@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ChallengeActivity-rock-paper-scissor/static/css/main.048f3117.css",
+    "main.js": "/ChallengeActivity-rock-paper-scissor/static/js/main.1f8e2c73.js",
+    "static/js/453.ed3810f9.chunk.js": "/ChallengeActivity-rock-paper-scissor/static/js/453.ed3810f9.chunk.js",
+    "index.html": "/ChallengeActivity-rock-paper-scissor/index.html",
+    "main.048f3117.css.map": "/ChallengeActivity-rock-paper-scissor/static/css/main.048f3117.css.map",
+    "main.1f8e2c73.js.map": "/ChallengeActivity-rock-paper-scissor/static/js/main.1f8e2c73.js.map",
+    "453.ed3810f9.chunk.js.map": "/ChallengeActivity-rock-paper-scissor/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.048f3117.css",
+    "static/js/main.1f8e2c73.js"
+  ]
+}
